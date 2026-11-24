@@ -1,0 +1,21 @@
+# Arquivos gerados pela compilacao Java
+*.class
+bin/
+out/
+
+# Configuracoes locais dos editores
+.idea/
+.vscode/
+
+# Configuracoes locais de ferramentas
+.agents/
+.aws/
+.codex/
+.env
+.env.*
+
+# Arquivos temporarios
+Trabalho-Biblioteca-publicacao.zip
+*.log
+.DS_Store
+Thumbs.db
